@@ -11,3 +11,4 @@ Curiosity gets the best of you. You follow the map and arrive at a dense forest,
 Then, you hear it—a whisper calling your name from within the woods.
 
 What will you do?
+[Choice 1: Follow the crow](./choice1.md)
