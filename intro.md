@@ -12,3 +12,4 @@ Then, you hear it—a whisper calling your name from within the woods.
 
 What will you do?
 [Choice 1: Follow the crow](./choice1.md)
+[Choice 2: Enter the forest through the left path](./choice2.md)
